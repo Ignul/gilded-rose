@@ -1,3 +1,3 @@
 # gilded-rose
 
-** GILDED ROSE Assignment **
+**GILDED ROSE Assignment**
